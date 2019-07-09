@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\ryoga\Documents\Circuit\line_sensor\line_sensor_photo\line_sensor_photo.sch)
-    (date "2019/06/29 1:42:11")
+    (date "2019/07/09 15:24:23")
     (tool "Eeschema (5.1.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
