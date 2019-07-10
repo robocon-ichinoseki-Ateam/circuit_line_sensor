@@ -1,4 +1,4 @@
-(module LPC1768 (layer F.Cu) (tedit 5D24357B)
+(module LPC1768 (layer F.Cu) (tedit 5D2532FC)
   (fp_text reference REF** (at 0 26.67) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
